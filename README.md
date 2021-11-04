@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GauthamAjay
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python AI projects
+- 📫 How to reach me: gauthamajay18@gmail.com
